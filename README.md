@@ -1,3 +1,5 @@
+To-do list powered by Vue.js. Utilizing JSON Placeholder for dummy data.
+
 # vuejstodolist
 
 ## Project setup
